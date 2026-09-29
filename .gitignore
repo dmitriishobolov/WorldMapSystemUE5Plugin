@@ -1,0 +1,15 @@
+/Binaries/
+/Intermediate/
+/Saved/
+/.vs/
+/.idea/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.opensdf
+*.pdb
+*.obj
+*.log
+__pycache__/
+/TestResults/

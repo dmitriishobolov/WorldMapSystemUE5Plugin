@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "WorldMapSystem",
+	"Description": "Data Asset driven cooperative maps, server-authoritative exploration and private observations.",
+	"Category": "UI",
+	"CreatedBy": "Dmitrii Shobolov",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/dmitriishobolov/WorldMapSystemUE5Plugin/blob/main/README.md",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/dmitriishobolov/WorldMapSystemUE5Plugin/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WorldMapSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
